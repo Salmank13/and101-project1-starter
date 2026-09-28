@@ -37,7 +37,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="50dp"
-                tools:text="First Last"
+                tools:text="Salman Khalid"
                 android:textSize="24sp"
                 android:textColor="@color/black"
                 android:textStyle="bold"
@@ -51,7 +51,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_bio_text"
+                android:text="Hi, I am an IS major with a minor in economics and I am Graduating this semester. "
                 android:textSize="16sp"/>
 
             <TextView
@@ -74,7 +74,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="10dp"
-                android:text="@string/profile_hobby_first_text"
+                android:text="🏀 Basketball"
                 android:textSize="15sp"/>
 
             <TextView
@@ -85,7 +85,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_second_text"
+                android:text="🎮 Video Games"
                 android:textSize="15sp"/>
 
             <TextView
@@ -96,7 +96,7 @@
                 app:layout_constraintStart_toStartOf="parent"
                 app:layout_constraintEnd_toEndOf="parent"
                 android:layout_marginTop="5dp"
-                android:text="@string/profile_hobby_third_text"
+                android:text="💪🏾Working Out"
                 android:textSize="15sp"/>
 
         </androidx.constraintlayout.widget.ConstraintLayout>
